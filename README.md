@@ -17,6 +17,9 @@ Welcome to my cybersecurity portfolio! This repository tracks my practical journ
 * **Description:** A comprehensive internal IT security audit focused on risk identification, NIST CSF alignment, and regulatory compliance.
 * **Status:** Complete
 
+### 🔹 Project 2: Analyze Network Attacks
+* **Description:** A technical packet capture (PCAP) investigation focused on identifying anomalous traffic patterns, analyzing TCP handshake vulnerabilities, and mitigating SYN flood attacks.
+* **Status:** Complete
 ---
 
 ## 📜 Certification Status
